@@ -50,11 +50,11 @@ M.variants = {
     diff_chg_bg  = "#1e1e1a",
     diff_txt_bg  = "#2a2a1a",
 
-    cursor_line  = "#FFFFFF08",
-    visual       = "#EAEC8A21",
-    search       = "#EAEC8A54",
-    cursorword   = "#EAEC8A16",
-    pmenu_sel    = "#FFFFFF16",
+    cursor_line  = "#131317",
+    visual       = "#28281F",
+    search       = "#545537",
+    cursorword   = "#1E1E1A",
+    pmenu_sel    = "#202024",
     ibl_indent   = "#1C1C21",
     vtext_warn   = "#2a2800",
 
@@ -106,11 +106,11 @@ M.variants = {
     diff_chg_bg  = "#1e1e1a",
     diff_txt_bg  = "#2a2a1a",
 
-    cursor_line  = "#FFFFFF08",
-    visual       = "#EAEC8A21",
-    search       = "#EAEC8A54",
-    cursorword   = "#EAEC8A16",
-    pmenu_sel    = "#FFFFFF16",
+    cursor_line  = "#1A1B20",
+    visual       = "#2F3028",
+    search       = "#5A5B3E",
+    cursorword   = "#262723",
+    pmenu_sel    = "#27282D",
     ibl_indent   = "#1C1C21",
     vtext_warn   = "#2a2800",
 
@@ -166,13 +166,13 @@ M.variants = {
     diff_chg_bg  = "#EDE8D4",  -- pale warm yellow
     diff_txt_bg  = "#E2DAB8",  -- slightly deeper warm yellow
 
-    cursor_line  = "#00000008",
-    visual       = "#6B6A1A28",  -- olive tint selection
-    search       = "#A0521A44",  -- warm orange search highlight
-    cursorword   = "#6B6A1A18",
-    pmenu_sel    = "#00000016",
+    cursor_line  = "#EDEDE8",
+    visual       = "#DFDECD",  -- olive tint selection
+    search       = "#DEC9B6",  -- warm orange search highlight
+    cursorword   = "#E8E7DB",
+    pmenu_sel    = "#E0DFDA",
     ibl_indent   = "#D8D6CE",
-    vtext_warn   = "#8C880018",
+    vtext_warn   = "#EBEAD8",
 
     none         = "NONE",
   },
